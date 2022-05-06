@@ -1,0 +1,11 @@
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Application.API.exe
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Application.API.dll
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Application.API.deps.json
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Application.API.runtimeconfig.json
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Application.API.pdb
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\ExemploAspCore\ExemploAspCore\Application.API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

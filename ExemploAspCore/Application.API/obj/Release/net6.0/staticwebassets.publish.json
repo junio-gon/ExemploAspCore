@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VtSZoiU32vsnQJm1UhCm97wrb+cfItnFgsxprdPOJW0=",
+  "Source": "Application.API",
+  "BasePath": "_content/Application.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
